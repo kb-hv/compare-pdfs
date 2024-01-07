@@ -6,6 +6,7 @@ A simple web app that takes in two PDF files and compares them page by page (pix
 2. Run ``` npm i ``` in cmd
 3. Run ``` node start ``` /  ``` nodemon start ``` to start the app
 4. Go to ``` http://localhost:3000/ ``` to compare PDF files
+5. You can use the files in the __sample files__ folder to see a demo
 
 ### Functions
 - Text Comparison
