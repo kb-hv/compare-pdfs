@@ -26,7 +26,7 @@ A simple web app that takes in two PDF files and compares them page by page (pix
 ### Demo
 https://github.com/kb-hv/compare-pdfs/assets/69793895/124e40b3-30ef-4e44-a20b-e75b03aa3ece
 
-In Demo 
+In Demo -
 - Scenario 1 - Different files (Set 1), text comparison
 - Scenario 2 - Different files (Set 1), pixel comparison
 - Scenario 3 - Same file, text comparison
